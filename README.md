@@ -5,26 +5,26 @@ This is a list of examples of my software development work and other relevant in
 ## Android
 
 Published Apps
-  - (Hillsboro Weather)[https://github.com/jdsandifer/HillsboroWeather/tree/master/app/src/main/java/com/jdsandifer/hillsboroweather]
-  - (Brick Fun Facts)[https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md]
+  - [Hillsboro Weather](https://github.com/jdsandifer/HillsboroWeather/tree/master/app/src/main/java/com/jdsandifer/hillsboroweather)
+  - [Brick Fun Facts](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md)
   
 Apps In Progress
-  - (Simple Weight Grapher)[https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md]
+  - [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md)
 
 ## Other Java
 
-- (Bible Statistics)[https://github.com/jdsandifer/BibleStatistics/blob/master/README.md]
+- [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md)
 - HackerRank Problems
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
-- (Simple Speaker Timer)[https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md]
+- [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md)
 
 ## Other Languages
 
 - PHP: I'm currently using this at my job working on a specialized file database/server.
 - AutoLISP (a specific variant of LISP, similar to Common Lisp)
-  - (ALUnit)[https://github.com/jdsandifer/ALUnit/blob/master/README.md]: The only open source unit testing framework for AutoLISP in existence.
+  - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP in existence.
 
 ## Related Skills
 
