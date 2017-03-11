@@ -14,7 +14,7 @@ Apps In Progress
 ## Other Java
 
 - [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md)
-- HackerRank Problems
+- [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md)
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
