@@ -5,7 +5,7 @@ This is a list of examples of my software development work and other relevant in
 ## Android
 
 Published Apps
-  - [Hillsboro Weather](https://github.com/jdsandifer/HillsboroWeather/tree/master/app/src/main/java/com/jdsandifer/hillsboroweather)
+  - [Hillsboro Weather](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md)
   - [Brick Fun Facts](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md)
   
 Apps In Progress
