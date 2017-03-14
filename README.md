@@ -22,7 +22,7 @@ Apps In Progress
 
 ## Other Languages
 
-- PHP: I'm currently using this at my job working on a specialized file database/server.
+- PHP: I'm currently using this at my job working on a specialized presentation file server. The server syncs files between computers in different rooms and provides web access to them at presentation time.
 - AutoLISP (a specific variant of LISP, similar to Common Lisp)
   - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP in existence.
 
