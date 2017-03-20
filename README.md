@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a list of examples of my software development work and other relevant information about my skills. While this list will always be in progress, I'm just getting it setup right now and still working on what projects to include.
+Below are examples of my software development work and other relevant skills. While this list will always be in progress, I'm just getting it setup right now and am still picking which projects to highlight here.
 
 ## Android
 
@@ -19,6 +19,7 @@ Apps In Progress
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
 - [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md)
+- [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React and JavaScript (ES6) to filter the list as you type.
 
 ## Other Languages
 
