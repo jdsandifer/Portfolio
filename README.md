@@ -17,7 +17,7 @@ Apps In Progress
 
 - [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md)
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md)
-- Design Patterns
+- [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
@@ -29,10 +29,9 @@ Apps In Progress
 - PHP: I'm currently using this at my job working on a specialized presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker. Essentially, the presenter's files are available on their computer and easily accessible at the correct time.
 - AutoLISP (a specific variant of LISP, similar to Common Lisp)
   - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP.
-- [Design Patterns](https://github.com/jdsandifer/DesignPatterns): A language of good software designs and their pros and cons.
 
 ## Related Skills
 
 - Colemak: I use this keyboard layout instead of the Qwerty default. Not only am I lessening the chance of typing related injuries and creating the chance to eventually type even faster, but it's more natural to me - it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth it.
 
-- Rubik's cubes: I can solve them. This is a testament to my problem solving skills and a demonstration of my tenacity. It also shows my ability to find the best online solution to a problem based on specific criteria - I didn't figure out the last step on my own and I wanted a method that was easy to remember.
+- Rubik's cubes: I can solve them. This is a testament to my problem solving skills and a demonstration of my tenacity. It also shows my ability to find the best existing solution to a problem based on specific criteria: I consulted online resources to figure out the last step faster than I could have on my own and I chose a method based on how easy it would be to remember because that's most important to me in maintaining the skill.
