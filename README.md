@@ -21,8 +21,12 @@ Apps In Progress
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
-- [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md)
-- [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React and JavaScript (ES6) to filter the list as you type in the search box.
+- [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md): 
+JS, CSS, and HTML
+- [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React 
+and JavaScript (ES6) to filter the list as you type in the search box.
+- Presentation File Server (at work): Uses a lot of JavaScript to control interactions between PHP 
+on the server and the pages themselves.
 
 ## Other Languages
 
