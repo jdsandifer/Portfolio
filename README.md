@@ -12,6 +12,7 @@ Published Apps
   
 Apps In Progress
   - [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md)
+  - Behring Tournament
 
 ## Other Java
 
