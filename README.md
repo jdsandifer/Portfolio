@@ -27,7 +27,7 @@ JS, CSS, and HTML
 - [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React 
 and JavaScript (ES6) to filter the list as you type in the search box.
 - Presentation File Server (at work): Uses a lot of JavaScript to control interactions between PHP 
-on the server and the pages themselves. LAMP stack.
+on the server and the pages themselves. LAMP stack with MySQL database.
 
 ## Other Languages
 
