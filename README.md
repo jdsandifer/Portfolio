@@ -12,7 +12,7 @@ Published Apps
   
 Apps In Progress
   - [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md)
-  - Behring Tournament
+  - Bjerring Tournament: A linear tournament creation app for use in sports tryouts.
 
 ## Other Java
 
