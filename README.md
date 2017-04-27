@@ -27,11 +27,11 @@ JS, CSS, and HTML
 - [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React 
 and JavaScript (ES6) to filter the list as you type in the search box.
 - Presentation File Server (at work): Uses a lot of JavaScript to control interactions between PHP 
-on the server and the pages themselves. LAMP stack with MySQL database.
+on the server and the pages themselves. LAMP stack: Linux box, Apache server, MySQL database, and PHP for dynamic content delivery.
 
 ## Other Languages
 
-- PHP: I'm currently using this at my job working on a specialized presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker.
+- PHP: I'm currently using this at my job working on the specialized presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker. (LAMP stack)
 - AutoLISP (a specific variant of LISP, similar to Common Lisp)
   - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP.
 
