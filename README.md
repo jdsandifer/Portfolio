@@ -30,7 +30,7 @@ on the server and the pages themselves. LAMP stack: Linux box, Apache server, My
 ## Other Languages
 
 - PHP: I'm currently using this at work with the presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker. (LAMP stack)
-- AutoLISP (a specific variant of LISP, similar to Common Lisp)
+- [AutoLISP](https://github.com/jdsandifer/AutoLISP) (a specific variant of LISP, similar to Common Lisp)
   - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP.
 
 ## Related Skills
