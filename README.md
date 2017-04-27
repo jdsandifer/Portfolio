@@ -1,8 +1,6 @@
 # Portfolio
 
-Below are examples of my software development work and other relevant skills across the different areas I'm exploring.
-
-While this list will always be in flux, it's currently still in the initial construction stages; I'll remove this note when the list is more or less complete in terms of representing my current skills and projects.
+Below are examples of my software development work and other relevant skills across the different areas I'm currently exploring.
 
 ## Android
 
