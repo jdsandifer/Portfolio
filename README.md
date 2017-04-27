@@ -37,6 +37,6 @@ on the server and the pages themselves. LAMP stack with MySQL database.
 
 ## Related Skills
 
-- Colemak: I use this keyboard layout instead of the Qwerty default. Not only am I lessening the chance of typing related injuries and creating the chance to eventually type even faster, but it's more natural to me - it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth it.
+- Colemak: I use this keyboard layout instead of the Qwerty default. Not only am I lessening the chance of typing related injuries and laying a foundation to type even faster, but it's more natural for me - it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth it.
 
 - Rubik's cubes: I can solve them. This is a testament to my problem solving skills and a demonstration of my tenacity. It also shows my ability to find the best existing solution to a problem based on specific criteria: I consulted online resources to figure out the last step faster than I could have on my own and I chose a method based on how easy it would be to remember because that's most important to me in maintaining the skill.
