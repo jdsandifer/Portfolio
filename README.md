@@ -5,17 +5,17 @@ Below are examples of my software development work and other relevant skills acr
 ## Android
 
 Published Apps
-  - [Hillsboro Weather](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md)
-  - [Brick Fun Facts](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md)
+  - [ Hillsboro Weather ](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md)
+  - [ Brick Fun Facts ](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md)
   
 Apps In Progress
-  - [Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md)
-  - Bjerring Tournament: A linear tournament creation app for use in sports tryouts.
+  - [ Simple Weight Grapher](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md)
+  - [ Killer Android Topics API ](https://github.com/jdsandifer/KillerAndroidTopicsApi): Written in Java, it uses the Spring and Hibernate frameworks.
 
 ## Other Java
 
-- [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md)
-- [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md)
+- [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md): Java 8 Streams
+- [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): Algorithms & Time/Space Complexity
 - [Design Patterns](https://github.com/jdsandifer/DesignPatterns)
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
@@ -29,7 +29,10 @@ on the server and the pages themselves. LAMP stack: Linux box, Apache server, My
 
 ## Other Languages
 
-- PHP: I'm currently using this at work with the presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker. (LAMP stack)
+- PHP, MySQL, Bash
+  - I'm currently using these at work with the presentation file server. The server syncs files between computers in different rooms and provides access to them at the correct presentation time for each speaker. (LAMP stack)
+- Python
+  - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md) 
 - [AutoLISP](https://github.com/jdsandifer/AutoLISP/blob/master/README.md) (a specific variant of LISP, similar to Common Lisp)
   - [ALUnit](https://github.com/jdsandifer/ALUnit/blob/master/README.md): The only open source unit testing framework for AutoLISP.
 
