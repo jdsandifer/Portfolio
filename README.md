@@ -20,12 +20,14 @@ Apps In Progress
 
 ## Web Languages (JavaScript, CSS/Sass, HTML)
 
-- [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React 
+- [Presentation File Server (at work)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
+Mostly comprised of PHP, HTML, and CSS for dynamic content delivery with JavaScript used to control some interactions 
+between the server and the client pages. (LAMP stack server: Linux box (Ubuntu), Apache server, MySQL database, and PHP)
+- [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): Uses React.js 
 and JavaScript (ES6) to filter the list as you type in the search box.
 - [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md): 
-JS, CSS, and HTML
-- Presentation File Server (at work): Uses a lot of JavaScript to control interactions between PHP 
-on the server and the pages themselves. LAMP stack: Linux box, Apache server, MySQL database, and PHP for dynamic content delivery.
+JS, CSS, and HTML compiled into a single HTML document for easy distribution across a large conference. Can be hosted on the web or distributed via download or USB drive.
+
 
 ## Other Languages
 
