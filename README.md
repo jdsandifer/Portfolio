@@ -49,7 +49,7 @@ Can be hosted on the web or distributed via download or USB drive.
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
 Algorithms & time/space complexity practice with Java and Python.
 - [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
-Just something to help keep the patterns fresh in my mind.
+Some Java implementations I'm doing to help keep the patterns fresh in my mind.
 
 
 ## Related Skills
