@@ -50,7 +50,7 @@ Can be hosted on the web or distributed via download or USB drive.
 
 **Java & Python**
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
-Algorithms & time/space complexity practice with Java and Python.
+Algorithms & time/space complexity (Big O) analysis practice with Java, Python, and JavaScript.
 - [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
 Some Java implementations I'm doing to help keep the patterns fresh in my mind.
 
