@@ -41,7 +41,12 @@ Massive text analysis using Java 8 streams and outputting CSV files.
 ## Personal Projects
 Things I've built for myself and my improvement as a developer:
 
-**Web Languages (JavaScript, CSS/Sass, HTML)**
+**C**
+- [Arduino Real Time Sensing](https://github.com/jdsandifer/Arduino-real-time-sensors/blob/master/README.md): 
+Programmed in C for Arduino. Two real time sensors - temperature and light level - feed data to a presentation
+LCD display and the serial bus for further connection.
+
+**HTML, CSS/Sass, JavaScript**
 - [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): 
 Uses React.js and JavaScript (ES6).
 - [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md): 
@@ -52,7 +57,7 @@ Can be hosted on the web or distributed via download or USB drive.
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
 Algorithms & time/space complexity (Big O) analysis practice with Java, Python, and JavaScript.
 - [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
-Some Java implementations I'm doing to help keep the patterns fresh in my mind.
+Some Java implementations I add to from time to time to help keep patterns fresh in my mind and learn new ones.
 
 
 ## Related Skills
