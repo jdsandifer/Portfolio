@@ -26,8 +26,6 @@ Things I've built for others:
 **Android**
 - [ Killer Android Topics API (in progress)](https://github.com/jdsandifer/KillerAndroidTopicsApi): 
 Written in Java, this API uses the Spring and Hibernate frameworks to manage a database of meetup topics for an Android app.
-- [ Simple Weight Grapher (in progress)](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md):
-Weight tracker app that will employ an efficient data entry interface of my own design.
 - [ Hillsboro Weather (published)](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md):
 Consumes a REST API and interprets the JSON data to display the current weather. 
 - [ Brick Fun Facts (published)](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md):
@@ -52,6 +50,10 @@ Uses React.js and JavaScript (ES6).
 - [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md): 
 JS, CSS, and HTML compiled into a single HTML document for easy distribution across a large conference. 
 Can be hosted on the web or distributed via download or USB drive.
+
+**Android**
+- [ Simple Weight Grapher (in progress)](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md):
+Weight tracker app that will employ an efficient data entry interface of my own design.
 
 **Java & Python**
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
