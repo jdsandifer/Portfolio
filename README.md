@@ -3,7 +3,10 @@ Below are examples of my software development work and other relevant skills.
 
 
 ## Commercial Work
-Things I've built for employers:
+Things I've built for employers or commercial clients:
+
+**Pigeon Systems (1 month of contracted development experience)**
+- iOS Mobile Development: Contributed to the front end interface and the code to connect to Bluetooth devices.
 
 **Oregon Convention Center (1 year of programming experience)**
 - [Presentation File Server (used by 2,000 clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
