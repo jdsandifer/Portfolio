@@ -5,20 +5,20 @@ Below are examples of my software development work and other relevant skills.
 ## Commercial Work
 Things I've built for employers or commercial clients:
 
-**Pigeon Systems (1 month of contracted development experience)**
-- iOS Mobile Development: Contributed to the front end interface and the code to connect to Bluetooth devices.
+**Pigeon Systems (3 months of contracted development experience)**
+- iOS Mobile Development: Contribute to the user interface and the code to connect to Bluetooth devices.
 
 **Oregon Convention Center (1 year of programming experience)**
 - [Presentation File Server (used by 2,000 clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
 Allows speakers to upload talks ahead of time, preview them, and then have them automatically transferred 
-to the presentation room's computers. PHP, HTML, and CSS employed for dynamic content delivery 
-with JavaScript used to control some interactions between the server and the client pages. 
-Uses LAMP stack servers: Linux box (Ubuntu), Apache server, MySQL database, and PHP code.
+to the presentation room's computers. We use PHP, HTML, and CSS for dynamic content delivery 
+and JavaScript to control some interactions between the server and the client pages. 
+Our servers have the LAMP stack: Linux box (Ubuntu), Apache server, MySQL database, and PHP code.
 
 **Hansen Architectural Systems, Inc. (1 year of programming experience)**
 - [ALUnit (published)](https://github.com/jdsandifer/ALUnit/blob/master/README.md): 
 The only open source unit testing framework for AutoLISP (as of its publication). 
-AutoLISP is a subvariant of LISP similar to Common Lisp in many ways.
+AutoLISP is a subvariant of LISP similar to Common Lisp in most ways.
 - [AutoLISP Apps (project ended)](https://github.com/jdsandifer/AutoLISP/blob/master/README.md): 
 These apps were built as reusable components that could be combined to automate and speed up drafting tasks.
 
@@ -60,13 +60,13 @@ Weight tracker app that will employ an efficient data entry interface of my own 
 
 **Java & Python**
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
-Algorithms & time/space complexity (Big O) analysis practice with Java, Python, and JavaScript.
+Algorithms & time/space complexity (Big O) analysis with Java, Python, and JavaScript.
 - [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
 Some Java implementations I add to from time to time to help keep patterns fresh in my mind and learn new ones.
 
 
 ## Related Skills
 
-- *Colemak:* I use this keyboard layout instead of the ubiquitous Qwerty default. Not only am I lessening the chance of typing related injuries and laying a foundation for improving my WPM, but it's more natural for me; it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth the investment.
+- *Colemak:* I use this keyboard layout instead of the ubiquitous Qwerty default. Not only am I lessening the chance of typing related injuries and laying a foundation for improving my typing speed, but it's more natural for me; it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth the investment.
 
-- *Rubik's Cubes:* Solving them is an example of my problem solving skills. It also shows my ability to find the best existing solution to a problem based on specific criteria: I consulted online resources to re-learn the last step faster than I could have on my own and I chose the method (algorithm) to learn based on how easy it would be to remember because that's most important to me in maintaining the skill.
+- *Rubik's Cubes:* I learned to solve 90% of a Rubik's Cube on my own and then I consulted online resources to learn the last step faster than I could have on my own. I chose the method (algorithm) to learn based on how easy it would be to remember because that's most important to me in maintaining the skill. This shows my ability to find the best existing solution to a problem based on specific criteria and my discernment in choosing when it's better to go with someone else's solution than spend time creating my own.
