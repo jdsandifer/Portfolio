@@ -5,17 +5,19 @@ Below are examples of my software development work and other relevant skills.
 ## Commercial Work
 Things I've built for employers or commercial clients:
 
-**Pigeon Systems (3 months of contracted development experience)**
-- iOS Mobile Development: Contribute to the user interface and the code to connect to Bluetooth devices.
+**Freelance iOS Mobile Development (4 months of contracted development experience)**
+- Pigeon Diagnostics: Program iOS applications in Swift to connect and monitor Bluetooth devices.
 
-**Oregon Convention Center (1 year of programming experience)**
+**Oregon Convention Center (1+ years of full stack programming experience)**
+- Digital Event Paperwork (used by team of 25):
+Internal application to allow AV technicians to access event paperwork remotely from tablets as they work throughout the building. The application is composed of a React.js front-end with CSS styling of the user interface. The backend is a PHP API that delivers event data in JSON format. Third-party libraries are used for HTML input sanitation and WYSIWYG text editing for notes.
 - [Presentation File Server (used by 2,000 clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
 Allows speakers to upload talks ahead of time, preview them, and then have them automatically transferred 
 to the presentation room's computers. We use PHP, HTML, and CSS for dynamic content delivery 
 and JavaScript to control some interactions between the server and the client pages. 
 Our servers have the LAMP stack: Linux box (Ubuntu), Apache server, MySQL database, and PHP code.
 
-**Hansen Architectural Systems, Inc. (1 year of programming experience)**
+**Hansen Architectural Systems, Inc. (1 year of functional programming experience)**
 - [ALUnit (published)](https://github.com/jdsandifer/ALUnit/blob/master/README.md): 
 The only open source unit testing framework for AutoLISP (as of its publication). 
 AutoLISP is a subvariant of LISP similar to Common Lisp in most ways.
@@ -27,8 +29,6 @@ These apps were built as reusable components that could be combined to automate 
 Things I've built for others:
 
 **Android**
-- [ Killer Android Topics API (in progress)](https://github.com/jdsandifer/KillerAndroidTopicsApi): 
-Written in Java, this API uses the Spring and Hibernate frameworks to manage a database of meetup topics for an Android app.
 - [ Hillsboro Weather (published)](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md):
 Consumes a REST API and interprets the JSON data to display the current weather. 
 - [ Brick Fun Facts (published)](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md):
