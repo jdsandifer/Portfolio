@@ -18,7 +18,7 @@ and JavaScript to control some interactions between the server and the client pa
 Our servers have the LAMP stack: Linux box (Ubuntu), Apache server, MySQL database, and PHP code.
 
 **Hansen Architectural Systems, Inc. (1 year of functional programming experience)**
-- [ALUnit (published)](https://github.com/jdsandifer/ALUnit/blob/master/README.md): 
+- [ALUnit (published)](https://github.com/jdsandifer/ALUnit): 
 The only open source unit testing framework for AutoLISP (as of its publication). 
 AutoLISP is a subvariant of LISP similar to Common Lisp in most ways.
 - [AutoLISP Apps (project ended)](https://github.com/jdsandifer/AutoLISP/blob/master/README.md): 
