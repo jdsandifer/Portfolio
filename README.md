@@ -5,11 +5,11 @@ Below are examples of my software development work and other relevant skills.
 ## Commercial Work
 Things I've built for employers or commercial clients:
 
-**Freelance iOS Mobile Development (4 months of contracted development experience)**
-- Pigeon Diagnostics: Program iOS applications in Swift to connect and monitor Bluetooth devices.
+**Freelance iOS Mobile Development (6 months of contract development experience)**
+- Pigeon Diagnostics: Built iOS applications in Swift to connect and monitor Bluetooth devices.
 
 **Oregon Convention Center (1+ years of full stack programming experience)**
-- Digital Event Paperwork (used by team of 25):
+- Digital Event Paperwork (used by a team of 25):
 Internal application to allow AV technicians to access event paperwork remotely from tablets as they work throughout the building. The application is composed of a React.js front-end with CSS styling of the user interface. The backend is a PHP API that delivers event data in JSON format. Third-party libraries are used for HTML input sanitation and WYSIWYG text editing for notes.
 - [Presentation File Server (used by 2,000 clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
 Allows speakers to upload talks ahead of time, preview them, and then have them automatically transferred 
