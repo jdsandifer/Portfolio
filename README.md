@@ -6,7 +6,9 @@ Below are examples of my software development work and other relevant skills.
 Things I've built for employers or commercial clients:
 
 **Freelance iOS Mobile Development (6 months of contract development experience)**
-- Pigeon Diagnostics: Built iOS applications in Swift to connect and monitor Bluetooth devices.
+- Built iOS applications in Swift to connect and monitor Bluetooth devices.
+- Communicated with team members using Slack, Jira, Zoom, and Trello.
+- Employed Git and Bitbucket for version control.
 
 **Oregon Convention Center (1+ years of full stack programming experience)**
 - Digital Event Paperwork (used by a team of 25):
