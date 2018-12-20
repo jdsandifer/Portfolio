@@ -10,10 +10,10 @@ Things I've built for employers or commercial clients:
 - Communicated with team members using Slack, Jira, Zoom, and Trello.
 - Employed Git and Bitbucket for version control.
 
-**Oregon Convention Center (1+ years of full stack programming experience)**
-- Digital Event Paperwork (used by a team of 25):
-Internal application to allow AV technicians to access event paperwork remotely from tablets as they work throughout the building. The application is composed of a React.js front-end with CSS styling of the user interface. The backend is a PHP API that delivers event data in JSON format. Third-party libraries are used for HTML input sanitation and WYSIWYG text editing for notes.
-- [Presentation File Server (used by 2,000 clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
+**Oregon Convention Center (2+ years of full stack programming experience)**
+- [Digital Event Paperwork](https://github.com/jdsandifer/digital-paperwork/blob/master/README.md) (used by a team of 25):
+Internal application to allow AV technicians to access event paperwork remotely from tablets as they work throughout the building. The application is composed of a React.js front-end with CSS styling of the user interface. The backend is a PHP API that delivers event data in JSON format. Third-party libraries are incorporated for HTML input sanitation and WYSIWYG text editing for notes.
+- [Presentation File Server (used by 2,000+ clients)](https://github.com/jdsandifer/PresentationFileServer/blob/master/README.md): 
 Allows speakers to upload talks ahead of time, preview them, and then have them automatically transferred 
 to the presentation room's computers. We use PHP, HTML, and CSS for dynamic content delivery 
 and JavaScript to control some interactions between the server and the client pages. 
@@ -50,6 +50,7 @@ Programmed in C for Arduino. Two real time sensors - temperature and light level
 LCD display and the serial bus for further connection.
 
 **HTML, CSS/Sass, JavaScript**
+- [FizzBuzz](https://github.com/jdsandifer/FizzBuzz): Deliberate practice to further my skills using a well-known problem and JavaScript (ES6).
 - [Programming Language Reference List](http://codepen.io/jdsandifer/full/RGdNNN/): 
 Uses React.js and JavaScript (ES6).
 - [Simple Speaker Timer](https://github.com/jdsandifer/SimpleSpeakerTimer/blob/master/README.md): 
