@@ -70,6 +70,8 @@ Some Java implementations I add to from time to time to help keep patterns fresh
 
 ## Related Skills
 
+- *Copywriting:* I believe words matter. Precision, clarity, simplicity - these are all important to me and I believe they foster better communication and understanding. I rewrite and rewrite to try to make my code and my prose clear and communicative for other developers and other people, respectively.
+
 - *Colemak:* I use this keyboard layout instead of the ubiquitous Qwerty default. Not only am I lessening the chance of typing related injuries and laying a foundation for improving my typing speed, but it's more natural for me; it just feels like I'm more connected to the keyboard and my work. This also hightlights my tenacity as it was a difficult switch that took months, but I was commited to it once I did the research and decided it was worth the investment.
 
 - *Rubik's Cubes:* I learned to solve 90% of a Rubik's Cube on my own and then I consulted online resources to learn the last step faster than I could have on my own. I chose the method (algorithm) to learn based on how easy it would be to remember because that's most important to me in maintaining the skill. This shows my ability to find the best existing solution to a problem based on specific criteria and my discernment in choosing when it's better to go with someone else's solution than spend time creating my own.
