@@ -5,11 +5,6 @@ Below are examples of my software development work and other relevant skills.
 ## Commercial Work
 Things I've built for employers or commercial clients:
 
-**Freelance iOS Mobile Development (6 months of contract development experience)**
-- Built iOS applications in Swift to connect and monitor Bluetooth devices.
-- Communicated with team members using Slack, Jira, Zoom, and Trello.
-- Employed Git and Bitbucket for version control.
-
 **Oregon Convention Center (2+ years of full stack programming experience)**
 - [Digital Event Paperwork](https://github.com/jdsandifer/digital-paperwork/blob/master/README.md) (used by a team of 25):
 Internal application to allow AV technicians to access event paperwork remotely from tablets as they work throughout the building. The application is composed of a React.js front-end with CSS styling of the user interface. The backend is a PHP API that delivers event data in JSON format. Third-party libraries are incorporated for HTML input sanitation and WYSIWYG text editing for notes.
@@ -18,6 +13,11 @@ Allows speakers to upload talks ahead of time, preview them, and then have them 
 to the presentation room's computers. We use PHP, HTML, and CSS for dynamic content delivery 
 and JavaScript to control some interactions between the server and the client pages. 
 Our servers have the LAMP stack: Linux box (Ubuntu), Apache server, MySQL database, and PHP code.
+
+**Freelance iOS Mobile Development (6 months of contract development experience)**
+- Built iOS applications in Swift to connect and monitor Bluetooth devices.
+- Communicated with team members using Slack, Jira, Zoom, and Trello.
+- Employed Git and Bitbucket for version control.
 
 **Hansen Architectural Systems, Inc. (1 year of functional programming experience)**
 - [ALUnit (published)](https://github.com/jdsandifer/ALUnit): 
