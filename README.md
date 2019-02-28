@@ -58,8 +58,8 @@ JS, CSS, and HTML compiled into a single HTML document for easy distribution acr
 Can be hosted on the web or distributed via download or USB drive.
 
 **Android**
-- [ Simple Weight Grapher (in progress)](https://github.com/jdsandifer/SimpleWeightGrapher/blob/master/README.md):
-Weight tracker app that will employ an efficient data entry interface of my own design.
+- [ Simple Weight Grapher (in progress)](https://github.com/jdsandifer/SimpleWeightGrapher-ReactNative):
+Weight tracker app that will employ an efficient data entry interface of my own design. Created with ReactNative.
 
 **Java & Python**
 - [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
