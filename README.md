@@ -1,5 +1,5 @@
 # Portfolio
-Below are examples of my software development work and other relevant skills.
+Below are examples of my software development work and other relevant skills prior to my first full-time development role.
 
 
 ## Commercial Work
