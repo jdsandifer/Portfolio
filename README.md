@@ -30,15 +30,15 @@ These apps were built as reusable components that could be combined to automate 
 ## Pro-bono Work & Free Apps
 Things I've built for others:
 
+**Java**
+- [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md): 
+Massive text analysis using Java 8 streams and outputting CSV files.
+
 **Android**
 - [ Hillsboro Weather (published)](https://github.com/jdsandifer/HillsboroWeather/blob/master/README.md):
 Consumes a REST API and interprets the JSON data to display the current weather. 
 - [ Brick Fun Facts (published)](https://github.com/jdsandifer/BrickFunFacts/blob/master/README.md):
 LEGO trivia app that uses official brick colors in the theme.
-
-**Java**
-- [Bible Statistics](https://github.com/jdsandifer/BibleStatistics/blob/master/README.md): 
-Massive text analysis using Java 8 streams and outputting CSV files.
 
 
 ## Personal Projects
@@ -48,6 +48,12 @@ Things I've built for myself and my improvement as a developer:
 - [Arduino Real Time Sensing](https://github.com/jdsandifer/Arduino-real-time-sensors/blob/master/README.md): 
 Programmed in C for Arduino. Two real time sensors - temperature and light level - feed data to a presentation
 LCD display and the serial bus for further connection.
+
+**Java & Python**
+- [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
+Algorithms & time/space complexity (Big O) analysis with Java, Python, and JavaScript.
+- [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
+Some Java implementations I add to from time to time to help keep patterns fresh in my mind and learn new ones.
 
 **HTML, CSS/Sass, JavaScript**
 - [FizzBuzz](https://github.com/jdsandifer/FizzBuzz): Deliberate practice to further my skills using a well-known problem and JavaScript (ES6).
@@ -60,12 +66,6 @@ Can be hosted on the web or distributed via download or USB drive.
 **Android**
 - [ Simple Weight Grapher (in progress)](https://github.com/jdsandifer/SimpleWeightGrapher-ReactNative):
 Weight tracker app that will employ an efficient data entry interface of my own design. Created with ReactNative.
-
-**Java & Python**
-- [HackerRank Problems](https://github.com/jdsandifer/HackerRank/blob/master/README.md): 
-Algorithms & time/space complexity (Big O) analysis with Java, Python, and JavaScript.
-- [Design Patterns](https://github.com/jdsandifer/DesignPatterns): 
-Some Java implementations I add to from time to time to help keep patterns fresh in my mind and learn new ones.
 
 
 ## Related Skills
